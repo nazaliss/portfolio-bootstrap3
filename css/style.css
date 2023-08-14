@@ -1,0 +1,39 @@
+main {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.jumbotron {
+  min-height: 100vh;
+  padding-top: 30vh;
+}
+
+.jumbotron img {
+  width: 200px;
+  border: 5px solid rgba(100, 100, 100, 0.5);
+}
+
+section {
+  min-height: 100vh;
+  padding-bottom: 100px;
+}
+
+hr {
+  width: 250px;
+  border-top: 3px solid rgba(100, 100, 100, 0.5);
+}
+
+.portfolio {
+  background-color: #eee;
+}
+
+footer {
+  background-color: #222;
+  color: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+footer .myname {
+  color: #eee;
+}
